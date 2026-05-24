@@ -4,10 +4,11 @@
 
 主攻网络与信息安全、DevOps 自动化运维
 
-[![Blog](...)](https://gxfdev.github.io/)
-[![Email](...)](mailto:3450584019@qq.com)
+📝 [Blog](https://gxfdev.github.io/) · 📧 [Email](mailto:3450584019@qq.com)
 
-![Java] ![Docker] ![Nginx] ![MySQL] ![Jenkins] ![Prometheus] ![Python] ![K8s]
+### 🛠️ Tech Stack
+
+`Java` · `Docker` · `Nginx` · `MySQL` · `Jenkins` · `Prometheus` · `Python` · `Kubernetes`
 
 ### 🔥 What I'm Working On
 
