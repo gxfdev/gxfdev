@@ -16,4 +16,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=gxfdev&show_icons=true&theme=radical&hide_border=true" width="400"/>
+### 🔥 What I'm Working On
+
+- 🐳 Docker 容器化部署与编排
+- 🔄 Jenkins CI/CD 流水线自动化
+- 📊 Prometheus + Grafana 监控体系
+- 🌐 Nginx 负载均衡与反向代理
+- 🔒 网络安全 / Wireshark 抓包分析
+
+<img src="https://github-readme-stats.vercel.app/api?username=gxfdev&show_icons=true&theme=radical&hide_border=true" />
